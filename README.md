@@ -7,4 +7,4 @@ https://start.spring.io/
   + Build : Gradle
   + Language : Java
   + Spring Boot : 2.5.4
-  + Dependencies : Spring Web, Thymeleaf, Lombok, MyBatis Framework
+  + Dependencies : Spring Web, Thymeleaf, Lombok, MyBatis Framework, MySQL Driver
